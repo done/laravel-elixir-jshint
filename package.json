@@ -1,0 +1,29 @@
+{
+  "name": "laravel-elixir-jshint",
+  "version": "1.0.0",
+  "description": "An Elixir wrapper for JSHint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/done/laravel-elixir-jshint.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "jshint"
+  ],
+  "author": "Daniel Domermark <done@supr.se> (supr.se)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/done/laravel-elixir-jshint/issues"
+  },
+  "homepage": "https://github.com/done/laravel-elixir-jshint#readme",
+  "dependencies": {
+    "gulp-jshint": "^1.11.2",
+    "gulp-notify": "^2.2.0",
+    "jshint-stylish": "^2.0.1"
+  }
+}
