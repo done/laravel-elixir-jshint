@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-jshint",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "An Elixir wrapper for JSHint",
   "main": "index.js",
   "scripts": {
